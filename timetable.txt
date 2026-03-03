@@ -1,0 +1,18 @@
+Exam 1: English
+Exam 2: Physics
+Exam 3: DSA
+Exam 4: Programming
+Exam 5: Calculus
+Exam 6: PST
+Invigilator 1: Ms Maira
+Invigilator 2: Ms Hira
+Invigilator 3: Sir Samad
+Invigilator 4: Sir Asad
+Invigilator 5: Sir Naseem
+Invigilator 6: Ms Aisha
+Date of Exam 1: 05-06-25
+Date of Exam 2: 07-06-25
+Date of Exam 3: 09-06-25
+Date of Exam 4: 11-06-25
+Date of Exam 5: 13-06-25
+Date of Exam 6: 15-06-25

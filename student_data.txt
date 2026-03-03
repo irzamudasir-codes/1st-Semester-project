@@ -1,0 +1,33 @@
+ID: 2
+Name: aira faisal
+----------------
+ID: 8
+Name: hussain
+----------------
+ID: 9
+Name: rimsha
+----------------
+ID: 45
+Name: khan
+----------------
+ID: 44
+Name: aisha
+----------------
+ID: 55
+Name: nimra salman
+----------------
+ID: 78
+Name: saira
+----------------
+ID: 1
+Name: meerab batool
+----------------
+ID: 66
+Name: fatima
+----------------
+ID: 99
+Name: uzma
+----------------
+ID: 64
+Name: izmah
+----------------
